@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build output (Vercel will run build on deploy)
+dist/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
